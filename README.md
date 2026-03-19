@@ -7,4 +7,3 @@
 - handle dynamic content through CRUD operations for events and reviews
 - structure a web project using modular includes for navigation and footers
 
-live: https://supjan9.github.io/Beautylab_WebProjekt
